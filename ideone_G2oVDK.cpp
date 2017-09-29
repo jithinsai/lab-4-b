@@ -1,6 +1,4 @@
 #include<iostream>
-#include<cstdlib>
- 
 using namespace std;
  
 int gcd(int n,int m)
